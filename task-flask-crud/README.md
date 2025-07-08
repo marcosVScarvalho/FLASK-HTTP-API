@@ -1,3 +1,3 @@
-# tasks-flask-crud
+# tasks-flask-crud + API
 
- Esse repositório foi criado durante o curso de Python na rocketseat
+API é conjunto de regras, protocolos e ferramentas que torna possível a comunicação entre diferentes sistemas de software
