@@ -32,7 +32,7 @@ Cada tarefa possui os campos:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/marcosVScarvalho/flask-task-manager.git
+git clone https://github.com/marcosVScarvalho/FLASK-HTTP-API.git
 cd flask-task-manager
 
 # 2. Instale as dependências
